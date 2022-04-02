@@ -1,0 +1,6 @@
+{
+	"port": 5000,
+	"jwtSecret": "kinkoSecret",
+	"mongoUri": "mongodb+srv://kinko:s3PwIaApeSA5OecS@cluster0.zaxzp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+	"baseUrl": "http://localhost:5000"
+}
